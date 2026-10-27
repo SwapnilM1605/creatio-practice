@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3120a491-ae39-4e1f-ad91-25e52ee0bb8a",
+    "Name": "UsrRealty_MobileListPage",
+    "ModifiedOnUtc": "\/Date(1793113639000)\/",
+    "Parent": {
+      "UId": "011e7dda-a763-4535-9b9a-e09eddd047be",
+      "Name": "BaseMobileListTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Realty mobile list page",
+    "DependsOn": []
+  }
+}

@@ -1,5 +1,6 @@
 <Project>
 	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/DevClassic/Schemas/UsrContactAgeInDays/UsrContactAgeInDays.cs" Condition="Exists('$(PkgPath)/DevClassic/Schemas/UsrContactAgeInDays/UsrContactAgeInDays.cs')" />
 		<Compile Include="$(PkgPath)/DevClassic/Schemas/UsrRealtyTypeClassic/UsrRealtyTypeClassic.cs" Condition="Exists('$(PkgPath)/DevClassic/Schemas/UsrRealtyTypeClassic/UsrRealtyTypeClassic.cs')" />
 	</ItemGroup>
 </Project>
