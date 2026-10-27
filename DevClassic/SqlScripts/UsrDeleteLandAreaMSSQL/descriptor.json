@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "f4df3bae-3687-5f23-b958-c0f15fc3ea39",
+    "Name": "UsrDeleteLandAreaMSSQL",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1793100547000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

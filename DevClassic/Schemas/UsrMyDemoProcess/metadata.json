@@ -39,6 +39,7 @@
           "A5": "7adb9ec0-cf45-b8d4-2f2a-f3229e249a19",
           "BL7": "11a47caf-a0d5-41fa-a274-a0b11f77447a",
           "BL8": "5c060076-1f25-4ab0-92b0-ada2ffb3545c",
+          "BM1": 0,
           "BM4": [
             {
               "BL1": "Terrasoft.Core.Process.ProcessSchemaLane",
@@ -73,7 +74,8 @@
           "BL8": "5c060076-1f25-4ab0-92b0-ada2ffb3545c",
           "BN2": "31;31",
           "BO3": true,
-          "FC1": []
+          "FC1": [],
+          "ED1": false
         },
         {
           "BL1": "Terrasoft.Core.Process.ProcessSchemaTerminateEvent",
