@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.3485a454-e830-c749-00f2-84553932983f.Caption" Value="Show Comment when Realty type filled" />
+			<Item Name="AddonConfig.Rules.999761ad-64a2-c714-94a4-74edd194197e.Caption" Value="Show Comment when Realty type set" />
+			<Item Name="Caption" Value="Realty form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

@@ -2,13 +2,20 @@
   "Descriptor": {
     "UId": "1dc5265a-bdc2-4b97-9e22-91a6a5404230",
     "Name": "UsrRealtyOfferType_Values",
-    "ModifiedOnUtc": "\/Date(1793114856000)\/",
+    "ModifiedOnUtc": "\/Date(1793180167000)\/",
     "InstallType": 0,
     "Schema": {
       "UId": "1dc5265a-bdc2-4b97-9e22-91a6a5404230",
       "Name": "UsrRealtyOfferType"
     },
     "Columns": [
+      {
+        "ColumnUId": "16ab7bef-7563-7239-d240-02e5267ae230",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrCommissionPercent",
+        "DataTypeValueUId": "60532cfd-8645-4a54-be81-bef507aa2339"
+      },
       {
         "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
         "IsForceUpdate": false,

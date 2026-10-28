@@ -5,16 +5,16 @@
   },
   "projects": {
     "C:\\Creatio\\StudioDev\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\DevClassic\\Files\\DevClassic.csproj": {
-      "version": "1.0.0",
+      "version": "10.1.796",
       "restore": {
         "projectUniqueName": "C:\\Creatio\\StudioDev\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\DevClassic\\Files\\DevClassic.csproj",
         "projectName": "DevClassic",
         "projectPath": "C:\\Creatio\\StudioDev\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\DevClassic\\Files\\DevClassic.csproj",
-        "packagesPath": "C:\\WINDOWS\\TEMP\\dotnet\\.nuget\\packages\\",
+        "packagesPath": "C:\\WINDOWS\\TEMP\\2\\IIS APPPOOL_CreatioStudio\\Default\\dotnet\\.nuget\\packages\\",
         "outputPath": "C:\\Creatio\\StudioDev\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\DevClassic\\Files\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\WINDOWS\\TEMP\\dotnet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\WINDOWS\\TEMP\\2\\IIS APPPOOL_CreatioStudio\\Default\\dotnet\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net472"
